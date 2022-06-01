@@ -1,4 +1,5 @@
 <h1><p dir="auto">link for backend part <a href="https://github.com/TarikFERTAHI/DigitalBanking-Backend">DigitalBanking-Backend</a></p></h1>
+<h1><p dir="auto">link for security part <a href="https://github.com/TarikFERTAHI/DigitalBanking-Security">DigitalBanking-Security</a></p></h1>
 
 # EbankingFrontend
 
